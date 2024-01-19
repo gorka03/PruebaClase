@@ -20,7 +20,7 @@ public class gorka {
 			System.out.println("Su valor absoluto es " + (numero * -1));
 		} else {
 			System.out.println("Su valor absoluto es " + (numero));
-
+			System.out.println("Su valor absoluto es " + (numero));
 		}
 		teclado.close();
 	}
